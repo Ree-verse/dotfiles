@@ -177,4 +177,4 @@ Many thanks to Idefa for the inspiration.
 
 ## License
 
-Released under the [MIT License](https://github.com/Ree-verse/dotfiles/blob/main/LICENSE) © 2025 [Ree-verse](https://github.com/ree-verse).
+Released under the [MIT License](https://github.com/Ree-verse/dotfiles/blob/main/LICENSE) © 2026 [Ree-verse](https://github.com/ree-verse).
