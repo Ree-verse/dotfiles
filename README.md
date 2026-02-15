@@ -61,7 +61,7 @@ Clone this repository and copy the `.config` folder to your home directory.
 
 This [NeoVim](https://github.com/neovim/neovim) configuration is based on [AstroNvim](https://github.com/AstroNvim/AstroNvim) with a few adjustments and additional plugins.
 I had already created an older version with [NvChad](https://github.com/NvChad/NvChad), with a lot more adjustments. What I particularly liked about AstroNvim was how comprehensive it already was, with many plugins already configured, while still being easy, intuitive to use, and well organized.
-This configuration is set up for Bash, CMake, C++, C#, Docker, Go, HTML & CSS, JSON, Lua, Markdown, Python, Ruby, Rust, SQL, TOML, TypeScript & JS, and finally YAML. Linters, formatters, and debuggers are also provided.
+This configuration is set up for Bash, CMake, C, C++, C#, Docker, Go, HTML & CSS, JSON, Lua, Markdown, Python, Ruby, Rust, SQL, TOML, TypeScript & JS, and finally YAML. Linters, formatters, and debuggers are also provided.
 
 ## Features
 
