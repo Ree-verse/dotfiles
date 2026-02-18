@@ -1,0 +1,13 @@
+{
+  "dankBatteryAlerts": {
+    "enabled": true,
+    "criticalThreshold": 10,
+    "criticalTitle": "Critical Battery Level",
+    "warningThreshold": 20,
+    "warningTitle": "Low Battery",
+    "warningMessage": "Battery at ${level}% - Consider charging soon",
+    "criticalMessage": "Battery at ${level}% - Connect charger immediately!",
+    "enableWarningAlert": true,
+    "enableCriticalAlert": true
+  }
+}
