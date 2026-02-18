@@ -24,6 +24,8 @@ My personal configuration files for my arch setup.
 - **[niri](https://github.com/YaLTeR/niri)** - Scrollable-tiling Wayland compositor
 - **[alacritty](https://github.com/alacritty/alacritty)** and **[ghostty](https://github.com/ghostty-org/ghostty)** - Fast, feature-rich, cross-platform, OpenGL terminals emulators
 - **[fastfetch](https://github.com/fastfetch-cli/fastfetch)** - System information tool (config inspired by [aayushchalise/fastfetch](https://codeberg.org/aayushchalise/fastfetch) and [idefasoft/dotfiles](https://github.com/idefasoft/dotfiles/tree/main/.config/fastfetch))
+- **[danksearch](https://github.com/AvengeMedia/danksearch)** - Fast, configurable filesystem search with fuzzy matching, integrated with the DankMaterialShell launcher
+- **[dgop](https://github.com/AvengeMedia/dgop)** - Stateless, cursor-based system and process monitoring, integrated with the DankMaterialShell system monitor
 - **[neovim](https://github.com/neovim/neovim)** - Fast, lightweight and minimalistic (Code) Editor; [more details below](#neovim-configuration)
 
 ## Installation
