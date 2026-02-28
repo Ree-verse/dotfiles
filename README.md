@@ -185,5 +185,4 @@ Many thanks to Idefa for the inspiration.
 
 Released under the [MIT License](https://github.com/Ree-verse/dotfiles/blob/main/LICENSE) © 2026 [Ree-verse](https://github.com/ree-verse).
 
-
 #### Disclaimer: This config is made for version 1.2.3 of DankMaterialShell (but should work for the other versions anyway).
