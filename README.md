@@ -7,7 +7,7 @@ My personal configuration files for my arch setup.
 <p align="center">
   <!-- Video Thumbnail -->
   <a href="https://www.youtube.com/watch?v=-AAPOH2KC-o" target="_blank" style="display: inline-block;">
-    <img width="1080" height="1920" alt="Presentation video" src="https://raw.githubusercontent.com/ree-verse/dotfiles/main/assets/screenshot.png">
+    <img width="1920" height="1080" alt="Presentation video" src="https://raw.githubusercontent.com/ree-verse/dotfiles/main/assets/screenshot.png">
   </a>
 </p>
 
