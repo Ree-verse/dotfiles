@@ -11,6 +11,7 @@ binds {
     Mod+P hotkey-overlay-title="Open Private Browser" { spawn "zen-browser" "--private-window"; }
     Mod+O hotkey-overlay-title="Open Zed" { spawn "zeditor"; }
     Mod+X hotkey-overlay-title="Open NeoVim" { spawn "ghostty" "-e" "nvim"; }
+    Mod+G hotkey-overlay-title="Open Text Editor" { spawn "gnome-text-editor"; }
     Mod+Space hotkey-overlay-title="Application Launcher" {
         spawn "dms" "ipc" "call" "spotlight" "toggle";
     }
